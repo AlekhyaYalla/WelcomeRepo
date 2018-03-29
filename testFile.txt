@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
  This is my first change chck  now.Hello world.. This is Alekhya.}
+=======
+Clean file to check  Hello world. This is test file to push into GIT.Alekhya Yalla
+>>>>>>> Stashed changes
